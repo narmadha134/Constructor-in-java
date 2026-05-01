@@ -1,4 +1,4 @@
-class cons {
+ class cons {
     public static void main(String[] args) {
         constructors o = new constructors("Narmadha");
         constructors o2 = new constructors(o);
